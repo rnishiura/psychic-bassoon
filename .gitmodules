@@ -1,3 +1,6 @@
 [submodule "friendly-waddle"]
 	path = friendly-waddle
 	url = https://github.com/rnishiura/friendly-waddle
+[submodule "pychargify"]
+	path = pychargify
+	url = https://github.com/getyouridx/pychargify
