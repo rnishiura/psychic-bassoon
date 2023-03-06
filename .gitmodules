@@ -1,0 +1,3 @@
+[submodule "friendly-waddle"]
+	path = friendly-waddle
+	url = git@github.com:rnishiura/friendly-waddle.git
